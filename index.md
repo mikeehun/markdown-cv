@@ -6,13 +6,8 @@ title: Miklos Mandics's CV
 Software Engineer | Automation | DevOps
 
 <div id="webaddress">
-<a href="miklos@komoly.com">miklos@komoly.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="miklos@komoly.com">miklos@komoly.com</a> - +353 86 0739626
 </div>
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 ## Experience
 
