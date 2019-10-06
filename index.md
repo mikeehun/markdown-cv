@@ -1,91 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Miklos Mandics's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Miklos Mandics
+Software Engineer | Automation | DevOps
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="miklos@komoly.com">miklos@komoly.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
 
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+### Experience
 
-### Research interests
+Firecrest - ICON
+Total Duration5 yrs 3 mos
+Software Test Engineer
+Apr 2017 – Oct 2018
+Automation testing using Robot Framework, Python and Selenium
+Creating documentation and howtos
+Technologies: Robot Framework, Python, Selenium
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Junior Software Engineer
+Aug 2014 – Apr 2017
+Development and maintanace of the clinical research system
+Writing automation scripts to improve production tasks and analyse production problems
+Extensive SQL development for system migration and fixing data issues
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+IBM
+IT Specialist
+Jun 2012 – Mar 2014
+Write documentation about best practices
+Training newcomers
+Provide on call support for the customers
 
 
-## Publications
+PrivilegeTours
+Web Developer
+Privilege Tours
+Jul 2011 – Feb 2012
+Develop back-office apps e.g. XML parser, image handler
+Helping to develop a project/task managementsystem
+Database management, data upload
+Administration
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Freelancer Web developer
+Jan 2009 – Jun 2011
+Creating and hosting content management systems, webpages and back-office systems for middle-sized companies (Gigabyte Hungary, Elitsecurity Kft.)
+Technologies: PHP, MySQL. jQuery, LAMP Stack
 
-### Journals
+### Education
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2006-2014`
+__University of Dunaujvaros__
+Bachelor of Science (BSc) - Software Architecture and Information Technology
 
-`1669`
-Lectiones opticæ.
+### Languages
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Hungarian: Native
+English: Fluent
+German: Basic knowledge
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2019 -->
 
 
