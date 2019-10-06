@@ -16,8 +16,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Experience
 
-Firecrest - ICON
-Total Duration5 yrs 3 mos
+**Firecrest - ICON**
 Software Test Engineer
 Apr 2017 – Oct 2018
 Automation testing using Robot Framework, Python and Selenium
@@ -31,7 +30,7 @@ Writing automation scripts to improve production tasks and analyse production pr
 Extensive SQL development for system migration and fixing data issues
 
 
-IBM
+**IBM**
 IT Specialist
 Jun 2012 – Mar 2014
 Write documentation about best practices
@@ -39,17 +38,17 @@ Training newcomers
 Provide on call support for the customers
 
 
-PrivilegeTours
+**Privilege Tours**
 Web Developer
-Privilege Tours
 Jul 2011 – Feb 2012
 Develop back-office apps e.g. XML parser, image handler
 Helping to develop a project/task managementsystem
 Database management, data upload
 Administration
 
-Freelancer Web developer
+**Freelancer Web developer**
 Jan 2009 – Jun 2011
+
 Creating and hosting content management systems, webpages and back-office systems for middle-sized companies (Gigabyte Hungary, Elitsecurity Kft.)
 Technologies: PHP, MySQL. jQuery, LAMP Stack
 
@@ -69,5 +68,3 @@ German: Basic knowledge
 <!-- ### Footer
 
 Last updated: Oct 2019 -->
-
-
