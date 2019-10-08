@@ -11,45 +11,69 @@ Software Engineer | Automation | DevOps
 
 ## Experience
 
-`Apr 2017 – Oct 2018`
-**Firecrest - ICON** - Software Test Engineer
+### Firecrest - ICON
+
+`2017 – 2018`
+**Software Test Engineer**
+
 Automation testing using Robot Framework, Python and Selenium
+
 Creating documentation and howtos
+
 Technologies: Robot Framework, Python, Selenium
 
-`Aug 2014 – Apr 2017`
-**Firecrest - ICON** - Junior Software Engineer
+### Firecrest - ICON
+
+`2014 – 2017`
+**Junior Software Engineer**
+
 Development and maintanace of the clinical research system
+
 Writing automation scripts to improve production tasks and analyse production problems
+
 Extensive SQL development for system migration and fixing data issues
 
-`Jun 2012 – Mar 2014`
-**IBM** - IT Specialist
+### IBM
+
+`2012 – 2014`
+**IT Specialist**
+
 Write documentation about best practices
+
 Training newcomers
+
 Provide on call support for the customers
 
-`Jul 2011 – Feb 2012`
-**Privilege Tours** - Web Developer
+### Privilege Tours
+
+`2011 – 2012`
+**Web Developer**
+
 Develop back-office apps e.g. XML parser, image handler
+
 Helping to develop a project/task managementsystem
+
 Database management
 
-`Jan 2009 – Jun 2011`
-**Freelancer Web developer**
+### Freelancer
+
+`2009 – 2011`
+**Web developer**
+
 Creating and hosting content management systems, webpages and back-office systems for middle-sized companies (Gigabyte Hungary, Elitsecurity Kft.)
-Technologies: PHP, MySQL. jQuery, LAMP Stack
 
 ## Education
 
-`2006-2014`
+`2006 - 2014`
 __University of Dunaujvaros__
 Bachelor of Science (BSc) - Software Architecture and Information Technology
 
 ## Languages
 
 Hungarian: Native
+
 English: Fluent
+
 German: Basic knowledge
 
 
