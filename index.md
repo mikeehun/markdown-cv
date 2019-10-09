@@ -7,7 +7,6 @@ Software Engineer | Automation | DevOps
 
 <div id="webaddress">
 <a href="miklos@komoly.com"><i class="fas fa-envelope"></i> miklos@komoly.com</a>
-
 <a href="tel:+353860739626"><i class="fas fa-mobile"></i> +353 86 0739626</a>
 </div>
 
@@ -23,7 +22,7 @@ Docker, Perl, Python, PHP, Hibernate, Spring
 
 ## Experience
 
-### ICON Clinical Research
+### ICON Plc
 
 `2017 – 2018`
 **Software Test Engineer**
@@ -34,7 +33,7 @@ Stress testing and debuging
 
 Creating documentation, tutorials and how-tos
 
-### ICON Clinical Research
+### ICON Plc
 
 `2014 – 2017`
 **Junior Software Engineer**
@@ -64,8 +63,6 @@ Provide on call support for the customers
 Develop back-office apps e.g. XML parser, image handler
 
 Helping to develop a project/task managementsystem
-
-Database management
 
 ### Freelancer
 
