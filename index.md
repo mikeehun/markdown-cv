@@ -11,9 +11,19 @@ Software Engineer | Automation | DevOps
 <a href="tel:+353860739626"><i class="fas fa-mobile"></i> +353 86 0739626</a>
 </div>
 
+## Skills
+
+### Advanced
+
+Java, SQL, Shell script, JavaScript, TypeScript, MongoDB, RobotFramework, Selenium, Jenkins, Drone.io, NGINX, Apache, Linux
+
+### Intermidiate
+
+Docker, Perl, Python, PHP, Hibernate, Spring
+
 ## Experience
 
-### Firecrest - ICON
+### ICON Clinical Research
 
 `2017 – 2018`
 **Software Test Engineer**
@@ -24,7 +34,7 @@ Stress testing and debuging
 
 Creating documentation, tutorials and how-tos
 
-### Firecrest - ICON
+### ICON Clinical Research
 
 `2014 – 2017`
 **Junior Software Engineer**
