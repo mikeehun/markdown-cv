@@ -18,7 +18,7 @@ Java, SQL, Shell script, JavaScript, TypeScript, MongoDB, RobotFramework, Seleni
 
 ### Intermidiate
 
-Docker, Perl, Python, PHP, Hibernate, Spring
+NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
 ## Experience
 
