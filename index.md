@@ -6,7 +6,9 @@ title: Miklos Mandics's CV
 Software Engineer | Automation | DevOps
 
 <div id="webaddress">
-<a href="miklos@komoly.com">miklos@komoly.com</a> - +353 86 0739626
+<a href="miklos@komoly.com"><i class="fas fa-envelope"></i> miklos@komoly.com</a>
+
+<a href="tel:+353860739626"><i class="fas fa-mobile"></i> +353 86 0739626</a>
 </div>
 
 ## Experience
