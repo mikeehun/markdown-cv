@@ -18,11 +18,11 @@ Software Engineer | Automation | DevOps
 `2017 – 2018`
 **Software Test Engineer**
 
-Automation testing using Robot Framework, Python and Selenium
+Automation testing using Robot Framework, Java, Python and Selenium GRID
 
-Creating documentation and howtos
+Stress testing and debuging
 
-Technologies: Robot Framework, Python, Selenium
+Creating documentation, tutorials and how-tos
 
 ### Firecrest - ICON
 
@@ -40,7 +40,7 @@ Extensive SQL development for system migration and fixing data issues
 `2012 – 2014`
 **IT Specialist**
 
-Write documentation about best practices
+Writing documentation about best practices
 
 Training newcomers
 
