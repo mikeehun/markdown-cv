@@ -39,8 +39,7 @@ Mentor other testers on test design and architecture
 
 Creating test frameworks for various internal projects
 
-`Project`
-
+**Project**
 I was working on a large internal web portal tracking the status of the compliance trainings of our large user base. We had automated testing in place for all the major browsers and platforms (including mobile), and manual testing when it was necessary. The company was transitioning to an outsourced setup, and I helped guiding the newcomers and provided training for them.
 
 ### ICON Plc
@@ -55,7 +54,7 @@ Developed a data integration system with Java and Spring and hibernate that proc
 huge streams of data, transforms it as per business logic and stores it on MySQL and 
 MongoDB
 
-Worked on implementing new rest interfaces and API's for the existing portal
+Worked on implementing new rest interfaces and APIs for the existing portal
 
 Writing automation scripts to improve production tasks and analyse production problems
 
@@ -79,7 +78,7 @@ Provide on call support for the customers
 
 Develop back-office apps e.g. XML parser, image handler
 
-Helping to develop a project/task managementsystem
+Helping to develop a project/task management system
 
 
 
