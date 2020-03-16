@@ -84,6 +84,7 @@ Helping to develop a project/task managementsystem
 
 Creating and hosting content management systems, webpages and back-office systems for middle-sized companies (Gigabyte Hungary, Elitsecurity Kft.)
 
+
 ## Education
 
 `2006 - 2014`
@@ -101,4 +102,4 @@ German: Basic knowledge
 
 <!-- ### Footer
 
-Last updated: Oct 2019 -->
+Last updated: Marc 2020 -->
