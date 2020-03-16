@@ -29,16 +29,29 @@ NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
 Automation testing using Robot Framework, Java, Python and Selenium GRID
 
-Stress testing and debuging
+Stress testing and debuging JAVA code
 
 Creating documentation, tutorials and how-tos
+
+Participate and sometime handle sprint planning and scrum meetings
+
+Mentor other testers on test design and architecture
+
+Creating test frameworks for various internal projects
 
 ### ICON Plc
 
 `2014 – 2017`
 **Junior Software Engineer**
 
-Development and maintanace of the clinical research system
+Full stack (JAVA, Spring, Hibernate, JavaScript, AngularJS) developer working in an Agile 
+setting
+
+Developed a data integration system with Java and Spring and hibernate that processes 
+huge streams of data, transforms it as per business logic and stores it on MySQL and 
+MongoDB
+
+Worked on implementing new rest interfaces and API's for the existing portal
 
 Writing automation scripts to improve production tasks and analyse production problems
 
