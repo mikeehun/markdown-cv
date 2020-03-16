@@ -81,6 +81,8 @@ Develop back-office apps e.g. XML parser, image handler
 
 Helping to develop a project/task managementsystem
 
+
+
 ### Freelancer
 
 `2009 – 2011`
