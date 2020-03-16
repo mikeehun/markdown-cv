@@ -39,7 +39,7 @@ Mentor other testers on test design and architecture
 
 Creating test frameworks for various internal projects
 
-Project: I was working a large internal web portal, which helped tracking the status of the compliance trainings of our numerous user base. We had automated testing in place for all the major browsers and platforms (including mobile), and manual testing when it was necessery. The company was transitioning to an outsurced setup, and I helped guiding the newcommers and provided training for them.
+`Project` I was working a large internal web portal, which helped tracking the status of the compliance trainings of our numerous user base. We had automated testing in place for all the major browsers and platforms (including mobile), and manual testing when it was necessery. The company was transitioning to an outsurced setup, and I helped guiding the newcommers and provided training for them.
 
 ### ICON Plc
 
