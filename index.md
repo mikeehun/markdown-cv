@@ -22,9 +22,17 @@ NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
 ## Experience
 
+
 ### ICON Plc
 
-`2017 – 2018`
+`2018 Oct - Now`
+**Founder**
+
+Working on personal project using nodejs, express, typescript.
+
+### ICON Plc
+
+`2017 Jan – 2018 Oct`
 **Software Test Engineer**
 
 Automation testing using Robot Framework, Java, Python and Selenium GRID
@@ -45,7 +53,7 @@ I was working on a large internal web portal tracking the status of the complian
 
 ### ICON Plc
 
-`2014 – 2017`
+`2014 Aug – 2017 Jan`
 **Junior Software Engineer**
 
 Full stack (JAVA, Spring, Hibernate, JavaScript, AngularJS) developer working in an Agile 
@@ -63,7 +71,7 @@ Extensive SQL development for system migration and fixing data issues
 
 ### IBM
 
-`2012 – 2014`
+`2012 Feb – 2014 Feb`
 **IT Specialist**
 
 Writing documentation about best practices
@@ -74,7 +82,7 @@ Provide on call support for the customers
 
 ### Privilege Tours
 
-`2011 – 2012`
+`2011 Jan – 2012 Jan`
 **Web Developer**
 
 Develop back-office apps e.g. XML parser, image handler
@@ -85,7 +93,7 @@ Helping to develop a project/task management system
 
 ### Freelancer
 
-`2009 – 2011`
+`2009 Jan – 2011 Jan`
 **Web developer**
 
 Creating and hosting content management systems, webpages and back-office systems for middle-sized companies (Gigabyte Hungary, Elitsecurity Kft.)
@@ -108,4 +116,4 @@ German: Basic knowledge
 
 <!-- ### Footer
 
-Last updated: Marc 2020 -->
+Last updated: Jun 2020 -->
