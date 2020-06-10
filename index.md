@@ -16,7 +16,7 @@ Software Engineer | Automation | DevOps
 
 Java, SQL, Shell script, JavaScript, TypeScript, MongoDB, RobotFramework, Selenium, Jenkins, Drone.io, NGINX, Apache, Linux
 
-### Intermediate￼
+### Intermediate
 
 NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
