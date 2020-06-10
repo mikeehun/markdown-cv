@@ -27,7 +27,7 @@ NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 `2018 Oct - Now`
 **Founder**
 
-I was working on setting up my my own comapny, which didn't happened aftrer all.
+I was working on setting up my own comapny, which didn't happened after all.
 
 ### ICON Plc
 
