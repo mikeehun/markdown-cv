@@ -22,13 +22,10 @@ NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
 ## Experience
 
-
-### ICON Plc
-
 `2018 Oct - Now`
 **Founder**
 
-Working on personal projects using nodejs, express, typescript.
+Worked on personal projects using nodejs, express, typescript.
 
 ### ICON Plc
 
