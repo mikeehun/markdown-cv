@@ -16,7 +16,7 @@ Software Engineer | Automation | DevOps
 
 Java, SQL, Shell script, JavaScript, TypeScript, MongoDB, RobotFramework, Selenium, Jenkins, Drone.io, NGINX, Apache, Linux
 
-### Intermediate
+### Intermediate￼
 
 NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
@@ -24,10 +24,10 @@ NodeJS, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 
 ### Private
 
-`2018 Oct - Now`
+`2018 Oct - 2020 Jan`
 **Founder**
 
-I was working on setting up my own comapny, which didn't happened after all.
+We were set up to create our own ecommerence platform with full typescript based nodejs and Express including a custom implementation of openid connect and OAuth 2 using mongodb in a microservice environment with docker on the backend. The frontend used Angular with SSR and Redux (Akita). The tesing stack consisted mocha and chai tests. Ultimatly the project got halted on the marketing phase.
 
 ### ICON Plc
 
