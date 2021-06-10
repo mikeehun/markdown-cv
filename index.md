@@ -27,7 +27,7 @@ Node.js, Docker, Perl, Python, PHP, Hibernate, Spring, Angular
 `2018 Oct - 2020 Jan`
 **Founder**
 
-We were set up to create our own ecommerce platform with full typescript based Node.js and Express including a custom implementation of openid connect and OAuth 2 using mongodb in a microservice environment with docker on the backend. The frontend used Angular with SSR and Redux (Akita). The testing stack consisted mocha and chai tests. Ultimately the project got halted on the marketing phase.
+We were set up to create our own ecommerce platform with full typescript based Node.js and Express including a custom implementation of openid connect and OAuth 2 using mongodb in a microservice environment with docker on the backend. The frontend used Angular with SSR and Redux (Akita). I was in charge of the backend development and testing efforts. The testing stack included a custom mock framework written in typscript for load testing, cucmberjs with mocha+chai for the backend and selenium and cypress on the frontend. The testing stack consisted mocha and chai tests. Ultimately the project got halted on the marketing phase.
 
 ### ICON Plc
 
@@ -115,4 +115,4 @@ German: Basic knowledge
 
 <!-- ### Footer
 
-Last updated: Jun 2020 -->
+Last updated: Jun 2021 -->
